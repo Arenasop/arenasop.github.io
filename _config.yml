@@ -1,7 +1,7 @@
 ###########
 # site.url, site.title
 
-title: 'Arena Squash och Padel'
+title: 'ARENA'
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
@@ -23,6 +23,7 @@ sass:
 
 exclude:
 - README.md
+- TODO.md
 
 
 safe: true
