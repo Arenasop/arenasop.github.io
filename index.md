@@ -1,3 +1,0 @@
-# github pages
-
-hello world
